@@ -211,10 +211,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [_star](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/_star)
 
 2. [com.v2ray.ang_1.10.8-4000658_minAPI21%28armeabi-v7a%29%28nodpi%29_apkmirror.com](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/com.v2ray.ang_1.10.8-4000658_minAPI21%28armeabi-v7a%29%28nodpi%29_apkmirror.com)
+
+3. [go1.26.3.windows-amd64](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/go1.26.3.windows-amd64)
 
 ---
