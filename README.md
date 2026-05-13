@@ -219,18 +219,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [_star](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/_star)
-
-2. [archive_20260508_071416](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/archive_20260508_071416)
-
-3. [archive_20260513_090233](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/archive_20260513_090233)
-
-4. [archive_20260513_090655](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/archive_20260513_090655)
-
-5. [com.v2ray.ang_1.10.8-4000658_minAPI21%28armeabi-v7a%29%28nodpi%29_apkmirror.com](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/com.v2ray.ang_1.10.8-4000658_minAPI21%28armeabi-v7a%29%28nodpi%29_apkmirror.com)
-
-6. [go1.26.3.windows-amd64](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/go1.26.3.windows-amd64)
+1. [archive_20260513_091200](https://github.com/Vahidex/Link_Downloader_Iran_War/tree/main/downloads/archive_20260513_091200)
 
 ---
